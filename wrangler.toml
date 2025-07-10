@@ -1,4 +1,4 @@
-name = "proxy01"
+name = "proxy04"
 main = "src/worker.js"
 workers_dev = true
 compatibility_date = "2024-04-07"
